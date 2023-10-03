@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**arminsandhu/arminsandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for checking out my github 💻
 
-Here are some ideas to get you started:
+Here's a bit about me:
+☁️  I'm current a 3rd year Software Engineer @ University of Calgary!
+☁️  I primarily work with Java 👾 though I am proficient in Python, C++, and various web dev. technologies!
+☁️  I'm always trying to learn new tech and develop my skillset
+☁️  I love to travel - Next stop is 🏙Toronto🏙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to chat! Connect with me on [Linkedin][1]
+
+[1]: www.linkedin.com/in/armin-sandhu
