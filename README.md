@@ -10,4 +10,4 @@ Here's a bit about me:<br><br>
 
 I'm always open to chat! Connect with me on [Linkedin][1]
 
-[1]: www.linkedin.com/in/armin-sandhu
+[1]:www.linkedin.com/in/armin-sandhu
